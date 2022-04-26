@@ -22,7 +22,7 @@ Erstelle eine Variable mit dem Namen `land` und gib ihr den Wert `Spanien`. <br>
 **Hinweis:** Benutze hierfür das Schlüsselwort `let`.
 
 </details>
-
+let land
 ___
 
 <details>
